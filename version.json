@@ -1,7 +1,5 @@
 {
-"version": "1.2.0",
-"url": "https://github.com/cpivetta6/zfrelease.git/releases/download/",
-"change-log":[
-	"Start"
-	]
+  "version": "1.2.0",
+  "url": "https://github.com/cpivetta6/zfrelease/blob/main/releases/zDevFlow.exe?raw=true",
+  "change-log": ["Start"]
 }
